@@ -1,0 +1,8 @@
+firebase-admin==6.3.0
+streamlit==1.27.1
+numpy==1.25.2
+matplotlib==3.8.0
+pandas==2.1.1
+plotly==5.17.0
+pillow==10.0.1
+networkx==3.1
